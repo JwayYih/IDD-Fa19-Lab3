@@ -1,6 +1,6 @@
 # Data Logger (and using cool sensors!)
 
-*A lab report by John Q. Student.*
+*A lab report by Johnway Yih
 
 ## In The Report
 
@@ -12,7 +12,11 @@ For this lab, we will be experimenting with a variety of sensors, sending the da
  
 **a. Based on the readings from the serial monitor, what is the range of the analog values being read?**
  
+ 0-1023
+ 
 **b. How many bits of resolution does the analog to digital converter (ADC) on the Arduino have?**
+
+10-bit ADC 
 
 ## Part B. RGB LED
 
@@ -24,9 +28,15 @@ For this lab, we will be experimenting with a variety of sensors, sending the da
 
 **a. What voltage values do you see from your force sensor?**
 
+0-1000
+
 **b. What kind of relationship does the voltage have as a function of the force applied? (e.g., linear?)**
 
+Exponential?
+
 **c. Can you change the LED fading code values so that you get the full range of output voltages from the LED when using your FSR?**
+
+No resistor. Utilize the variable voltage input from FSR to get the full range of output voltages from LED
 
 **d. What resistance do you need to have in series to get a reasonable range of voltages from each sensor?**
 
