@@ -32,19 +32,26 @@ For this lab, we will be experimenting with a variety of sensors, sending the da
 
 **b. What kind of relationship does the voltage have as a function of the force applied? (e.g., linear?)**
 
-Exponential?
+Non-linear
 
 **c. Can you change the LED fading code values so that you get the full range of output voltages from the LED when using your FSR?**
 
-No resistor. Utilize the variable voltage input from FSR to get the full range of output voltages from LED
+No resistor. Utilize the variable resistance input from FSR to get the full range of output voltages from LED
 
 **d. What resistance do you need to have in series to get a reasonable range of voltages from each sensor?**
 
+10K Ohm Resistor for Force Sensor, Photosensor
+No additional resistor required Flex Sensor
+
 **e. What kind of relationship does the resistance have as a function of stimulus? (e.g., linear?)**
+
+Seems linear or potentially stepwise.
 
 ### 2. Accelerometer
  
 **a. Include your accelerometer read-out code in your write-up.**
+
+
 
 ### 3. IR Proximity Sensor
 
