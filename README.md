@@ -50,7 +50,11 @@ No resistor. Utilize the variable voltage input from FSR to get the full range o
 
 **a. Describe the voltage change over the sensing range of the sensor. A sketch of voltage vs. distance would work also. Does it match up with what you expect from the datasheet?**
 
+N/A
+
 **b. Upload your merged code to your lab report repository and link to it here.**
+
+N/A
 
 ## Optional. Graphic Display
 
