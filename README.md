@@ -51,6 +51,7 @@ Seems linear or potentially stepwise.
  
 **a. Include your accelerometer read-out code in your write-up.**
 
+ [RGB+Accelerometer+OLED](https://github.com/JwayYih/IDD-Fa19-Lab3/blob/master/RGB_Accelerometer_OLED-Readout.ino)
 
 
 ### 3. IR Proximity Sensor
@@ -68,9 +69,7 @@ N/A
 **Take a picture of your screen working insert it here!**
 
 ## Part D. Logging values to the EEPROM and reading them back
- 
- [RGB+Accelerometer+OLED](https://github.com/JwayYih/IDD-Fa19-Lab3/blob/master/RGB_Accelerometer_OLED-Readout.ino)
- 
+  
 ### 1. Reading and writing values to the Arduino EEPROM
 
 **a. Does it matter what actions are assigned to which state? Why?**
